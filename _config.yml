@@ -1,14 +1,14 @@
 title:
-  it: Team per la Trasformazione Digitale
-  en: Digital Transformation Team
-email: info@teamdigitale.governo.it
+  it: Test digitale
+  en: digital test
+email: bitech.ov@gmail.com
 description:
-  it: "Innovazione digitale per i cittadini e per lo sviluppo del Paese"
-  en: "Digital innovation for citizens and for the development of the country"
+  it: "Test Web"
+  en: "Test Web"
 index:
   it:
   en: en/index.html
-url: "https://teamdigitale.governo.it"
+url: "https://bitechonline.it"
 
 highlighter: none
 markdown: kramdown
